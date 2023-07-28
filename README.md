@@ -11,7 +11,7 @@ Free and popular editor
 *https://coolors.co*  
 Color palette generator / inspiration
 
-**Coolors**  
+**Unsplash**  
 *https://unsplash.com*  
 Free stock photos
 
