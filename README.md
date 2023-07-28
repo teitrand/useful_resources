@@ -11,5 +11,9 @@ Free and popular editor
 *https://coolors.co*  
 Color palette generator / inspiration
 
+**Coolors**  
+*https://unsplash.com*  
+Free stock photos
+
 ***************************************
 *More suggestions welcome*
